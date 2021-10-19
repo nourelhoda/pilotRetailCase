@@ -1,4 +1,4 @@
-
+@extends('app')
 @if($newsCount==3)
 <h1>you already added 3 news</h1>
 @else
