@@ -22,7 +22,6 @@ class MessageController extends Controller
         elseif($request->query('retails')){
           
             $messages = Message::where('retail', $request->query('retails'))->get();
-            // dd($result);
              return view('message.index',compact('messages'));
         }
      
