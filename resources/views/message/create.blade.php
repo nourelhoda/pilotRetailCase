@@ -41,7 +41,7 @@
             </div>
         @endif
 
-        <a href="/">Back</a>
+        <a href="/">Go back to home</a>
         </div>
         </div>
 </body>

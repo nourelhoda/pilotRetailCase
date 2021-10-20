@@ -34,7 +34,7 @@
                 <p>No news to show</p>
             @endforelse
 
-            <a href="/">Back</a>
+            <a href="/">Go back to home</a>
         </div>
     </main>
 </body>
